@@ -30,3 +30,5 @@ Route::name('orders.')->prefix('/orders')->controller(OrderController::class)->g
 Route::get('/contact',function () {
     return view('contact');
 })->name('contact');
+
+asdasd;
